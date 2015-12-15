@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1450173816 source:/home/K3030487IAV/coding/sqlit/sqlit.cpp
+	<iostream>
+	<sqlite3.h>
+
